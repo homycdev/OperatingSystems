@@ -1,0 +1,133 @@
+    1  sudo install chromium
+    2  --help
+    3  install --help
+    4  sudo apt update
+    5  sudo apt install chromium-browser
+    6  sudo add-apt-repository ppa:noobslab/macbuntu
+    7  sudo apt-get install gnome-shell-extensions
+    8  sudo add-apt-repository ppa:system76/pop
+    9  sudo apt-get update
+   10  sudo apt-get install pop-theme
+   11  git clone https://github.com/mpiannucci/gnome-shell-extended-gestures
+   12  sudo apt-get update
+   13  sudo apt-get upgrade
+   14  sudo apt-get install git
+   15  git clone https://github.com/mpiannucci/gnome-shell-extended-gestures
+   16  cd gnome-shell-extended-gestures
+   17  ./package.sh
+   18  python /home/hamy/Desktop/test.py
+   19  sudo apt install python3
+   20  python3 /home/hamy/Desktop/test.py
+   21  sudo apt get install pylint
+   22  sudo apt-get install pip
+   23  pip
+   24  sudo apt install python-pip
+   25  pip
+   26  pip install pylint
+   27  idea.sh
+   28  /idea.sh
+   29  '/home/hamy/idea-IU-181.5087.20/bin/idea.sh' 
+   30  '/home/hamy/android-studio/bin/studio.sh' 
+   31  sudo apt-get install dart
+   32  sudo apt-get update
+   33  sudo apt-get install dart
+   34  sudo apt install dart
+   35  java
+   36  sudo apt-get install java8
+   37  java -version
+   38  sudo apt install openjdk-8-jre-headless
+   39  sudo apt install openjdk-9-jre-headless
+   40  sudo apt install openjdk-9-jre-headless 
+   41  export PATH=`pwd`/flutter/bin:$PATH
+   42  flutter doctor
+   43  lutter doctor --android-licenses
+   44  flutter doctor --android-licenses
+   45  flutter doctor
+   46  export PATH=[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin:$PATH
+   47  echo $PATH
+   48  studio.sh
+   49  flutter doctor
+   50  sudo adduser hamy kvm
+   51  sudo adduser hamy-K501UW kvm
+   52  sudo adduser hamy kvm
+   53  sudo apt install qemu-kvm
+   54  install kv
+   55  install kvm
+   56  sudo apt install qemu-kvm
+   57  ls -al /dev/kvm
+   58  qemu-kvm
+   59  sudo install qemu-kvm
+   60  sudo apt-get install qemu-kvm
+   61  sudo apt-get update
+   62  $ sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
+   63  sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils
+   64  ./avd
+   65  ./android avd
+   66  cd
+   67  ./android avd
+   68  /.android
+   69  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_23
+   70  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27
+   71  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27_x86
+   72  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27_x86.avd
+   73  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27
+   74  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27_x86
+   75  sdk
+   76  emulator
+   77  ./emulator
+   78  ./android
+   79  ./android list target
+   80  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27_x86
+   81  cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_27
+   82  sudo apt-get update
+   83  sudo apt-get install dart
+   84  flutter doctor
+   85  flutter
+   86  export PATH=`pwd`/flutter/bin:$PATH
+   87  flutter doctor
+   88  ./studio.sh
+   89  dart main.dart
+   90  cd ~/Downloads/
+   91  sudo tar -xvzf utserver.tar.gz -C /opt/
+   92  /usr/bin/python3 /home/hamy/Pictures/start.py
+   93  python3 start.py
+   94  /usr/bin/python3 /home/hamy/Pictures/start.py
+   95  docker run
+   96  sudo snap install docker
+   97  docker run
+   98  --help
+   99  docker --help
+  100  pwd
+  101  mkdir <week1>
+  102  ~
+  103  docker run
+  104  docker run -it --rm -v
+  105  ls /usr/bin
+  106  mkdir ~/week1
+  107  cd ~/week
+  108  cd ~/week1
+  109  ls /usr/bin
+  110  grep gcc /usr/bin
+  111  grep gcc bin
+  112  grep gcc week1
+  113  grep gcc
+  114  grep gcc ~
+  115  grep gcc /
+  116  ls | grep gcc / | sort -r | tail -n 3
+  117  ls | grep gcc <week1> | sort -r | tail -n 3
+  118  ls | grep gcc | sort -r > list.txt
+  119  ls | grep gcc | sort -r > week1/list.txt
+  120  ls | grep gcc | sort -r > ~/week1/list.txt
+  121  ls ~/week1/list.txt 
+  122  ls | grep gcc 
+  123  ls
+  124  cd/
+  125  ls /usr/bin
+  126  ls /usr/bin | grep gcc
+  127  ls /usr/bin | grep gcc | sort -n 3 > ~/week1/list.txt
+  128  ls /usr/bin | grep gcc | sort -r 3 > ~/week1/list.txt
+  129  ls /usr/bin | grep gcc | sort -r > ~/week1/list.txt
+  130  history
+  131  history > ~week1/ex2.txt
+  132  history > ~week1/ ex2.txt
+  133  history > ex2.txt
