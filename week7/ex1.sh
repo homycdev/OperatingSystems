@@ -1,0 +1,1 @@
+size ex3 > ex1.txt
