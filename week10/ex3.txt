@@ -1,0 +1,32 @@
+total 8
+-rw-r--r-- 3 root root  0 Oct 24 21:48 _ex1_1.txt
+-rw-r--r-- 3 root root  0 Oct 24 21:48 _ex1_2.txt
+-rw-r--r-- 3 root root  0 Oct 24 21:48 _ex1.txt
+-rw-r--r-- 1 root root 58 Oct 24 22:17 ex1.txt
+-rw-r--r-- 1 root root  0 Oct 24 22:05 _ex2.txt
+-rw-r--r-- 1 root root 50 Oct 24 22:36 ex2.txt
+-rw-rw-rw- 1 root root  0 Oct 24 22:39 _ex3.txt
+-rw-r--r-- 1 root root  0 Oct 24 22:42 ex3.txt
+total 12
+-rw-r--r-- 3 root root   0 Oct 24 21:48 _ex1_1.txt
+-rw-r--r-- 3 root root   0 Oct 24 21:48 _ex1_2.txt
+-rw-r--r-- 3 root root   0 Oct 24 21:48 _ex1.txt
+-rw-r--r-- 1 root root  58 Oct 24 22:17 ex1.txt
+-rw-r--r-- 1 root root   0 Oct 24 22:05 _ex2.txt
+-rw-r--r-- 1 root root  50 Oct 24 22:36 ex2.txt
+-rwxrw-rwx 1 root root   0 Oct 24 22:39 _ex3.txt
+-rw-r--r-- 1 root root 393 Oct 24 22:43 ex3.txt
+total 12
+-rw-r--r-- 3 root root   0 Oct 24 21:48 _ex1_1.txt
+-rw-r--r-- 3 root root   0 Oct 24 21:48 _ex1_2.txt
+-rw-r--r-- 3 root root   0 Oct 24 21:48 _ex1.txt
+-rw-r--r-- 1 root root  58 Oct 24 22:17 ex1.txt
+-rw-r--r-- 1 root root   0 Oct 24 22:05 _ex2.txt
+-rw-r--r-- 1 root root  50 Oct 24 22:36 ex2.txt
+-rwxrwxrwx 1 root root   0 Oct 24 22:39 _ex3.txt
+-rw-r--r-- 1 root root 795 Oct 24 22:51 ex3.txt
+
+
+660 (-rw-rw----) - User and Group can read and edit, Other can do nothing
+755 (-rwxr-xr-x) - everyone can read and execute, User can edit
+777 (-rwxrwxrwx) - everyone can do read, edit and execute

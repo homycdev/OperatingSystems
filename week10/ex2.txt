@@ -1,0 +1,2 @@
+/home/user/Desktop/os_fixed/OperatingSystems/week10/_ex2.txt
+/home/user/Desktop/os_fixed/OperatingSystems/week01/file.txt
