@@ -1,0 +1,4 @@
+So printf() function is  line buffered function.
+The fork() function creates clone of the process, so that means child get buffer also
+So in 1st case we get two fulled buffers that had been freed after '\n' 
+And in the 2nd case, child gets empty buffer and just prints '\n'
